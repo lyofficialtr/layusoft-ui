@@ -2,3 +2,9 @@ node_modules
 src
 .git
 .vscode
+.github
+index.html
+eslint.config.js
+tsconfig.json
+tsconfig.tsbuildinfo
+vite.config.ts
