@@ -1,6 +1,6 @@
 {
   "name": "layusoft-ui",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "type": "module",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
